@@ -4,4 +4,4 @@ eureka:
     service-url:
       defaultZone: http://eureka7001.com:7001/eureka/
 config:
-  info: this is config info6
+  info: this is config info7
